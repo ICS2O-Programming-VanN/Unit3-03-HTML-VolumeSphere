@@ -1,0 +1,38 @@
+ /* Color and text alignment */
+
+body {
+	background-color: rgb(111, 236, 236);
+}
+
+p {
+	background-color: #fbf8ac;
+	font-weight: bold;
+}
+
+main {
+	text-align: center;
+}
+
+th {
+	text-align: center;
+}
+
+/* Centered Div */
+
+.mdl-layout-title {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #ffbea8;
+	font-weight: bold;
+}
+
+h2 {
+  background-color: #ff9494;
+  padding: 30px;
+}
+
+main {
+	text-align: center;
+	font-weight: bold;
+}
